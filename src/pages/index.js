@@ -9,6 +9,7 @@ const index = () => {
       <StaticImage
         alt="Clifford, a reddish-brown pitbull, posing on a couch and looking stoically at the camera"
         src="../images/pes.webp"
+        imgStyle={{ borderRadius: '0.5rem' }}
       />
     </Layout>
   );
